@@ -1,4 +1,4 @@
-# gitHub-foundations-certification
+# GitHub Foundations Certification
 
 * To create a heading, add one to six # symbols before your heading text. The number of # you use will determine the hierarchy level and typeface size of the heading.
 * You can create an inline link by wrapping link text in brackets [ ], and then wrapping the URL in parentheses ( ).
