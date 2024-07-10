@@ -45,3 +45,31 @@ Saved replies allow you to create a reusable response to issues and pull request
 * 2FA -> SMS, Authentication App, Security Key and GitHub Mobile.
 * Label
   * <img width="627" alt="Screenshot 2024-07-09 at 18 06 30" src="https://github.com/edgarpf/gitHub-foundations-certification/assets/15313093/5dcb47cd-9b48-42d4-97d2-aa033a50421d">
+* To protect the CODEOWNERS file against unauthorized changes, you can define the repository owner as the owner of the CODEOWNERS file. 
+* You can give organization members, outside collaborators, and teams of people different levels of access to repositories owned by an organization by assigning them to roles. Choose the role that best fits each person or team's function in your project without giving people more access to the project than they need. From least access to most access, the roles for an organization repository are:
+  * Read: Recommended for non-code contributors who want to view or discuss your project
+  * Triage: Recommended for contributors who need to proactively manage issues, discussions, and pull requests without write access
+  * Write: Recommended for contributors who actively push to your project
+  * Maintain: Recommended for project managers who need to manage the repository without access to sensitive or destructive actions
+  * Admin: Recommended for people who need full access to the project, including sensitive and destructive actions like managing security or deleting a repository.
+* With issue forms, you can optionally add Assignees and Labels.
+* The github.dev is an online web-based editor that allows you to quickly open or create files within a repository.
+* Secret gists aren't private. If you send the URL of a secret gist to a friend, they'll be able to see it. However, if someone you don't know discovers the URL, they'll also be able to see your gist. If you need to keep your code away from prying eyes, you may want to create a private repository instead.
+* Issue templates are stored in a hidden directory named .github/ISSUE_TEMPLATE within the repository's default branch (usually the main branch).
+* Internal repositories on GitHub are accessible to all members within an enterprise. This facilitates collaboration and sharing of code and projects among all authorized members of the organization.
+* The new GitHub Projects provides a richer experience that enables you to keep track of your work, where you work.
+  * Projects offers advanced customization options and built-in automation features, while Projects Classic provides basic customization capabilities.
+  * Projects offers more views like Boards, Lists and Roadmaps.
+  * Insights is available for the new Projects experience, you cannot use Insights with projects (classic).
+* To make your project easier to find and engage with, you can add relevant topics that describe what your project is about. These topics act like labels. Also, consider adding a README file.
+* Peter decides to publicize his private contributions on his GitHub profile. Now, when someone visits his profile, they can see that he made private contributions on certain days, but they won't be able to view the specific details of those contributions.
+* The different statuses of a pull request: Draft, Open pull request, Closed pull request, Merged pull request.
+* Pulse provides an overview of a repository's activity, including open and merged pull requests, open and closed issues, and a graph showing the commit activity for the top 15 users who committed to the default branch of the project in the selected time period.
+* GitHub makes it convenient for you by automatically subscribing you to conversations when you actively participate.
+* Layout options are available in GitHub Project: Table layout, Board layout and Roadmap layout.
+* In Git repositories, settings from .gitignore files are inherited from parent directories to child directories.
+* On GitHub, teams can be categorized as either visible or secret. Visible teams are accessible and can be mentioned by any member within the organization. In contrast, secret teams are only visible to the team members and individuals with owner permissions.
+* Developers can create collapsible detail areas in GitHub comments or descriptions using the /details slash command.
+* Glenn should archive the repository to make it read-only for all users and indicate that it's no longer actively maintained.
+* You can assign multiple people to each issue or pull request, including yourself, anyone who has commented on the issue or pull request, anyone with write permissions to the repository, and organization members with read permissions to the repository.
+* 
