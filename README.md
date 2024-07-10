@@ -72,4 +72,16 @@ Saved replies allow you to create a reusable response to issues and pull request
 * Developers can create collapsible detail areas in GitHub comments or descriptions using the /details slash command.
 * Glenn should archive the repository to make it read-only for all users and indicate that it's no longer actively maintained.
 * You can assign multiple people to each issue or pull request, including yourself, anyone who has commented on the issue or pull request, anyone with write permissions to the repository, and organization members with read permissions to the repository.
+* To stay updated on the activity in a specific repository on GitHub, You should watch the repository.
+* If you add a README file to the root of a public repository with the same name as your username, it will appear on your profile page.
+* Using the "git clone" command with the repository's URL followed by ".wiki.git" to clone a wiki from a GitHub repository.
+* Your template repository cannot include files stored using Git LFS.
+* Draft pull requests cannot be merged, and code owners are not automatically requested to review draft pull requests.
+* GitHub provides the functionality to filter issues based on milestones.
+* Deleting a branch in the GitHub flow signals that the work on the branch is completed.
+* GitHub provides the option to create a permanent link to a specific line or range of lines of code in a file or pull request.
+* GitHub accounts come in three types - Personal, Organization, and Enterprise.
+* The code frequency graph displays the content additions and deletions for each week in a repository's history.
+* Files added to a repository via a browser can be no larger than 25 MiB.
+* You can exclude specified files from being used to inform code completion suggestions made by GitHub Copilot. However, this feature is only available in Copilot Business and Copilot Enterprise, not in Copilot Individual.
 * 
