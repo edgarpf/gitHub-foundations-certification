@@ -84,4 +84,20 @@ Saved replies allow you to create a reusable response to issues and pull request
 * The code frequency graph displays the content additions and deletions for each week in a repository's history.
 * Files added to a repository via a browser can be no larger than 25 MiB.
 * You can exclude specified files from being used to inform code completion suggestions made by GitHub Copilot. However, this feature is only available in Copilot Business and Copilot Enterprise, not in Copilot Individual.
+* When a PR targets a repository's default branch, special keywords in the PR description are interpreted to create links to relevant issues. However, if the PR's base is any other branch, the keywords are ignored, and no links are created.
+* Anyone with push access to a repository can view its traffic, including full clones (not fetches), visitors from the past 14 days.
+* After creating a gist, you cannot convert it from public to secret.. However, a secret gist can be made public by editing the gist and updating the visibility to public.
+* By adding topics like "Literature" and "Book Reviews," Brian can classify his repository based on its intended purpose, making it easier for other users interested in literature to discover and contribute to his projects.
+* Regardless of your local operating system, your codespace will run in a Linux environment.
+* You can use the Dependency Graph feature on GitHub to identify all the project's dependencies.
+* You should use a regular, non-incognito window in his browser to open github.dev, as incognito windows may not provide the necessary authentication.
+* While it is available for use by anyone, access to Copilot is free for verified students, teachers, and maintainers of popular open source projects.
+* GitHub Security Advisories enable repository maintainers to privately discuss and fix security vulnerabilities in a project before publicly disclosing them to the community.
+* Secret teams cannot be nested under parent teams or have child teams.
+* The actions/add-to-project workflow is designed to automate the process of adding issues and pull requests to projects.
+* You can mark a comment as an answer to the discussion if it is within a category that accepts answers.
+* With security keys, your enterprise can achieve a higher level of user security and protection.
+* When your project initializes, two workflows are enabled by default: When issues or pull requests in your project are closed, their status is set to Done, and when pull requests in your project are merged, their status is set to Done.
+* In GitHub discussions, you can mark a threaded comment (a comment in response to another comment) as the answer to a discussion if it provides a satisfactory solution or response.
+* You should edit the .git/info/exclude file in the root of his repository to add rules that will not be checked in and will only ignore files for his local repository.
 * 
