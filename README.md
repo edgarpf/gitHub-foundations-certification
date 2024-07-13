@@ -139,4 +139,23 @@ Saved replies allow you to create a reusable response to issues and pull request
 * A project can span multiple repositories, but a workflow is specific to a repository.
 * You can see all commits made to a repository in the past year (excluding merge commits) in the Commit graph.
 * GitHub Apps are the preferred method for integrating with GitHub because they provide finer control over permissions for accessing data.
-* 
+* Slash commands in GitHub can be used in any description or comment field in issues, pull requests, or discussions.
+* GitHub automatically analyzes the content of public repositories and suggests relevant topics based on the repository's content.
+* You can call a maximum of 20 reusable workflows from a single workflow file.
+* To remove files from the repository's history, you can use the BFG Repo-Cleaner or the git filter-repo command.
+* "Shifting left" in the context of secure development refers to integrating security measures earlier in the development lifecycle.
+* Issues and pull requests in public repositories, and in private repositories for a paid account, can have up to 10 people assigned. Private repositories on the free plan are limited to one person per issue or pull request.
+* To upload large files (over 100 MiB) to GitHub, you should use Git Large File Storage (LFS). 
+* Built-in automation built within Projects allows you a simple way to automate your Project.
+* If a Codespace is inactive or you exit without explicitly stopping, it times out after 30 minutes of inactivity.
+* The CODEOWNERS file must be on the base branch of the pull request for code owners to receive review requests when a pull request with changes relevant to their assigned files is opened.
+* To create a repository for your project, use the gh repo create subcommand.
+* GitHub Enterprise includes additional security, compliance, and deployment controls, with the option to purchase GitHub Advanced Security.
+* You should add the file paths to a file named ignore that's located inside the directory ~/.config/git to tell Git to always ignore certain files or directories when she makes a commit in any Git repository on her computer.
+* To filter issues using logical OR, use the comma syntax: label:"bug","wip".
+* To filter issues using logical AND, use separate label filters: label:"bug" label:"wip".
+* The provided default labels in GitHub repositories include bug, enhancement, good first issue, and others, but feature is not one of them.
+* Certain insights, such as contributor, commit, and code frequency insights, are only available for repositories that have less than 10,000 commits.
+* If you wants to rename his local branch feature-1 to new-feature on the remote repository named origin, he would run git push origin feature-1:new-feature.
+* SCIM, or System for Cross-domain Identity Management, is a protocol that enables the automatic exchange of user identity information between systems, such as an identity provider (IdP) and GitHub.
+* The /saved-replies slash command allows you to insert a saved reply from her account directly into a comment or description field. This helps her provide consistent responses to common questions or comments.
