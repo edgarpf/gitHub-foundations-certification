@@ -100,4 +100,34 @@ Saved replies allow you to create a reusable response to issues and pull request
 * When your project initializes, two workflows are enabled by default: When issues or pull requests in your project are closed, their status is set to Done, and when pull requests in your project are merged, their status is set to Done.
 * In GitHub discussions, you can mark a threaded comment (a comment in response to another comment) as the answer to a discussion if it provides a satisfactory solution or response.
 * You should edit the .git/info/exclude file in the root of his repository to add rules that will not be checked in and will only ignore files for his local repository.
-* 
+* Filters can be sorted to provide better information during a specific time period.
+  * You can sort any filtered view by:
+  * The newest created issues or pull requests
+  * The oldest created issues or pull requests
+  * The most commented issues or pull requests
+  * The least commented issues or pull requests
+  * The newest updated issues or pull requests
+  * The oldest updated issues or pull requests
+  * The most added reaction on issues or pull requests
+* You should use git commit -a to automatically stage all tracked files for the next commit along with a descriptive commit message.
+* To skip checks for a commit, type your commit message and a short, meaningful description of your changes. After your commit description, before the closing quotation, add two empty lines followed by skip-checks: true:
+* The "Share a deep link" option allows you to configure more options for the codespace and build a custom URL, which can then be shared to facilitate codespace creation with specific configurations.
+* When using the team synchronization feature, there are specific usage limits you need to know about. Exceeding these limits can lead to unexpected performance, and may cause synchronization failures.
+  * Maximum number of members in a GitHub team: 5,000
+  * Maximum number of members in a GitHub organization: 10,000
+  * Maximum number of teams in a GitHub organization: 1,500
+* The GitHub flow is a lightweight workflow that allows for safe experimentation with new ideas, features, and fixes. It involves creating branches, making changes, creating pull requests for feedback, reviewing and implementing feedback, getting approval, and finally, merging changes into the main branch.
+* You can create an unlimited number of Codespaces per repository or branch, depending upon available space.
+* GitHub Enterprise includes two deployment options: GitHub Enterprise Cloud (cloud-hosted) and GitHub Enterprise Server (self-hosted).
+* You can open any GitHub repository in github.dev in either of the following ways:
+* To open the repository in the same browser tab, press . while browsing any repository or pull request on GitHub.
+  * To open the repository in a new browser tab, press >.
+  * Change the URL from "github.com" to "github.dev".
+  * When viewing a file, select the dropdown menu and click github.dev.
+* While Personal Access Tokens (Classic) have broad access scopes and can live indefinitely, Fine-Grained Tokens have over 50 granular permissions and expire after a specified duration.
+* Slash commands on GitHub are designed to make it easier to type complex Markdown, such as tables, tasklists, and code blocks, by reducing the amount of typing required.
+* The referring sites and popular content sections of GitHub's traffic graph update on a daily basis. However, full clones and visitor information are updated hourly.
+* In GitHub repositories, individuals with write access can pin up to three important issues above the list of issues.
+* GitHub recommends repositories to remain small, ideally less than 1 GB, and less than 5 GB is strongly recommended for better performance and ease of maintenance.
+* You should create an organization site for the centralized website of the organization. Organization sites are connected to a specific GitHub organization and must be created in a repository named <organization>.github.io.
+* Once a vote has been cast in a poll on GitHub, voters cannot change their vote.
