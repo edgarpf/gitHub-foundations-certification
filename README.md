@@ -131,3 +131,12 @@ Saved replies allow you to create a reusable response to issues and pull request
 * GitHub recommends repositories to remain small, ideally less than 1 GB, and less than 5 GB is strongly recommended for better performance and ease of maintenance.
 * You should create an organization site for the centralized website of the organization. Organization sites are connected to a specific GitHub organization and must be created in a repository named <organization>.github.io.
 * Once a vote has been cast in a poll on GitHub, voters cannot change their vote.
+* GitHub Copilot is powered by OpenAI Codex.
+* To mark an issue or pull request as a duplicate, type "Duplicate of" followed by an issue or pull request number in the body of a new comment. You can also use the GitHub-provided saved replies, "Duplicate issue" or "Duplicate pull request."
+* SAML authentication is a process used to verify user identity and credentials against a known identity provider.
+* To include the directory structure and files from all branches of the template repository, you should check the "Include all branches" option while creating the new repository.
+* Each individual file must be smaller than 2 GiB.
+* A project can span multiple repositories, but a workflow is specific to a repository.
+* You can see all commits made to a repository in the past year (excluding merge commits) in the Commit graph.
+* GitHub Apps are the preferred method for integrating with GitHub because they provide finer control over permissions for accessing data.
+* 
